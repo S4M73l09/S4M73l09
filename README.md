@@ -20,7 +20,7 @@
 - **Gcloud-Scripts** - Script Powershell + Bash para creacion de recursos necesarios de Terraform en Gcloud.  
     Código: https://github.com/S4M73l09/Gcloud-Script
 
-### Proyectos especiales
+### Laboratorio de infraestructura
 
 #### ***Bootstrap/Live - Proyecto que utiliza un Bootstrap generado para separarlo usando buenas practicas.*** 
  - **GCS-Bootstrap---Live** - Bootstrap creado en Google Cloud para el despliegue de infra, haciendolo todo de manera profesional.
