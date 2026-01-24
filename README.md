@@ -32,7 +32,7 @@
         Código: https://github.com/S4M73l09/GCS-Infra-Live
   
 ### Stack
-Azure · Google Cloud · Terraform · Ansible · GitHub Actions · Docker · Prometheus · Grafana · LDAP · Windows Server · pipelines  
+Azure · Google Cloud · Terraform · Ansible · GitHub Actions · GIT · Docker · Prometheus · Grafana · LDAP · Windows Server · Workflows  
 
 ### Contacto
 - Escríbeme por **Malt** (arriba) o por **LinkedIn**: https://www.linkedin.com/in/samuelillobaby/
