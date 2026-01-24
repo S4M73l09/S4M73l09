@@ -34,7 +34,7 @@
 
 
 ### Stack
-Azure · Google Cloud · Terraform ·  Ansible · GitHub Actions · Docker · Prometheus · Grafana · LDAP · Windows Server · pipelines
+Azure · Google Cloud · Terraform ·  Ansible · GitHub Actions · GIT · Docker · Prometheus · Grafana · LDAP · Windows Server · Workflows
 
 
 ### Contact
