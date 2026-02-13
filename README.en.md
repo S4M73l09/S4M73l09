@@ -30,15 +30,15 @@
 
  - **GCS-Infra-Live** - Using the created Bootstrap, we can directly deploy the real infrastructure, separating it into environments, including a test branch, a main branch where the changes will be applied, and a promotion branch.
       - Stack deployed - Terraform + Github Actions + testing branch + promotion branch + Google Cloud + Ansible + Modified workflows for real-world deployment.    
-        Code: https://github.com/S4M73l09/GCS-Infra-Live
+        Code: https://github.com/S4M73l09/GCS-Infra-Live  
 
  - **Az-Bootstrap** - Bootstrap simulated in Azure environment, following security best practices.
-      - Stack deployed - Terraform + Github Actions + OIDC + Azure + Modified workflows for future use and deployment.
-        Code: https://github.com/S4M73l09/AZ-Bootstrap
+      - Stack deployed - Terraform + Github Actions + OIDC + Azure + Modified workflows for future use and deployment.  
+        Code: https://github.com/S4M73l09/AZ-Bootstrap  
 
- - **Az-InfraLive** - Future infrastructure separated into staging and main branch. It is still ongoing.
-      - Stack deployed - ...
-        Code: ...
+ - **Az-InfraLive** - Future infrastructure separated into staging and main branch. It is still ongoing.  
+      - Stack deployed - ...  
+        Code: ...  
 
 
 ### Stack
