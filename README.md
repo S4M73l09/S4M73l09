@@ -27,17 +27,17 @@
       - Stack desplegado - terraform + Github Actions + OIDC + Google cloud + Workflows modificados para el uso y despliegue de Bootstrap.  
         Código: https://github.com/S4M73l09/GCS-Bootstrap---Live
 
- - **GCS-Infra-Live** - Utilizando el Bootstrap creado, podemos desplegar de manera directa la infraestructura real, separando en entornos, tanto en rama de pruebas, como una main donde se aplicara los cambios, y una rama de promocion.
-      - Stack desplegado - Terraform + Github Actions + rama de pruebas + rama de promocion + Google Cloud + Ansible + Workflows modificados para despliegue real.  
-        Código: https://github.com/S4M73l09/GCS-Infra-Live
+ - **GCS-Infra-Live** - Utilizando el Bootstrap creado, podemos desplegar de manera directa la infraestructura real, separando en entornos, tanto en rama de pruebas, como una main donde se aplicara los cambios, y una rama de promocion.  
+      - Stack desplegado - Terraform + Github Actions + rama de pruebas + rama de promocion + Google Cloud + Ansible + Workflows modificados para despliegue real.    
+        Código: https://github.com/S4M73l09/GCS-Infra-Live  
 
-- **Az-Bootstrap** - Bootstrap simulado en entorno de Azure, siguiendo las mejores practicas de seguridad.
-      - Stack desplegado - Terraform + Github Actions + OIDC + Azure + Workflows modificados para el uso y despliegue futuros.
-        Código: https://github.com/S4M73l09/AZ-Bootstrap
+- **Az-Bootstrap** - Bootstrap simulado en entorno de Azure, siguiendo las mejores practicas de seguridad.  
+     - Stack desplegado - Terraform + Github Actions + OIDC + Azure + Workflows modificados para el uso y despliegue futuros.  
+         Código: https://github.com/S4M73l09/AZ-Bootstrap  
 
-- **AZ-InfraLive** - Infraestructura futura separada en rama de pruebas (staging) y rama de prod (main). Sigue en Curso.
-      - Stack desplegado - ...
-        Código: ...
+- **AZ-InfraLive** - Infraestructura futura separada en rama de pruebas (staging) y rama de prod (main). Sigue en Curso.  
+    - Stack desplegado - ...  
+         Código: ...  
   
 ### Stack
 Azure · Google Cloud · Terraform · Ansible · GitHub Actions · GIT · Docker · Kubernetes · Prometheus · Grafana · LDAP · Windows Server · Workflows  
