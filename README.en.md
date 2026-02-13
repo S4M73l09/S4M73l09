@@ -32,9 +32,17 @@
       - Stack deployed - Terraform + Github Actions + testing branch + promotion branch + Google Cloud + Ansible + Modified workflows for real-world deployment.    
         Code: https://github.com/S4M73l09/GCS-Infra-Live
 
+ - **Az-Bootstrap** - Bootstrap simulated in Azure environment, following security best practices.
+      - Stack deployed - Terraform + Github Actions + OIDC + Azure + Modified workflows for future use and deployment.
+        Code: https://github.com/S4M73l09/AZ-Bootstrap
+
+ - **Az-InfraLive** - Future infrastructure separated into staging and main branch. It is still ongoing.
+      - Stack deployed - ...
+        Code: ...
+
 
 ### Stack
-Azure · Google Cloud · Terraform ·  Ansible · GitHub Actions · GIT · Docker · Prometheus · Grafana · LDAP · Windows Server · Workflows
+Azure · Google Cloud · Terraform ·  Ansible · GitHub Actions · GIT · Docker · Kubernetes · Prometheus · Grafana · LDAP · Windows Server · Workflows
 
 
 ### Contact
