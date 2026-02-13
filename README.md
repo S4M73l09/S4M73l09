@@ -43,4 +43,4 @@
 Azure · Google Cloud · Terraform · Ansible · GitHub Actions · GIT · Docker · Kubernetes · Prometheus · Grafana · LDAP · Windows Server · Workflows  
 
 ### Contacto
-- Escríbeme por **Malt** (arriba) o por **LinkedIn**: https://www.linkedin.com/in/samuelillobaby/
+- Escríbeme por **Malt** (arriba) o por [**LinkedIn**](https://www.linkedin.com/in/samuelillobaby/)
