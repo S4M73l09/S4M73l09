@@ -42,7 +42,7 @@
 
 
 ### Stack
-Azure · Google Cloud · Terraform ·  Ansible · GitHub Actions · GIT · Docker · Kubernetes · Prometheus · Grafana · LDAP · Windows Server · Workflows
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&v=1)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)  ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)  ![LDAP](https://img.shields.io/badge/LDAP-0A66C2?logo=openldap&logoColor=white)  ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white)
 
 
 ### Contact
