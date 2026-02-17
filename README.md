@@ -1,6 +1,6 @@
 # S4M73I09 ES --> [EN](README.en.md)
 
-<h1 align="center">Hola, soy samuel encantado!!👋</h1>
+<h1 align="center">Hola, Soy samuel, encantado!!👋</h1>
 
 <p align="center">
   <a href="https://www.malt.es/profile/samueljesuscarrera"><img alt="Contrátame en Malt" src="https://img.shields.io/badge/Contr%C3%A1tame%20en-Malt-red"></a>
