@@ -1,6 +1,9 @@
 # S4M73I09 EN --> [ES](README.md)
 
-<h1 align="center">Hi, I'm Samuel, nice to meet you!! 👋</h1>
+<h1 align="center">Hola, Soy samuel, encantado!!
+  <img src="https://raw.githubusercontent.com/S4M73l09/S4M73l09/refs/heads/main/assets/Saludo.gif" width="28" height= "28" alt="wave"/>
+  
+  </h1>
 
 <p align="center">
   <a href="https://www.malt.es/profile/samueljesuscarcarenaz"><img alt="Hire me on Malt" src="https://img.shields.io/badge/Hire%20me%20on-Malt-red"></a>
@@ -10,7 +13,7 @@
 
 
 
-**EN**: Azure DevOps. IaC (Terraform + Ansible), CI/CD (GitHub Actions), pipelines,  Docker & Observability (Prometheus/Grafana).  
+#### Azure DevOps. IaC (Terraform + Ansible), CI/CD (GitHub Actions), pipelines,  Docker & Observability (Prometheus/Grafana).  
 
 
 ### Featured Projects
