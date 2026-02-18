@@ -1,51 +1,133 @@
+<div align="center>
 <p align="center">
-  <img src="https://github.com/S4M73l09/S4M73l09/blob/main/assets/Mercury%20crop.gif?raw=true" width="920" alt="Mercury" />
+  <img src="https://raw.githubusercontent.com/S4M73l09/S4M73l09/refs/heads/main/assets/Agujeronegro.webp" alt="banner" width="100%"/>
 </p>
 
 
-# S4M73I09 ES --> [EN](README.en.md)
-
-<h1 align="center">Hola, Soy samuel, encantado!!
+<h1 align="center">Hola, soy Samuel, encantado!!
   <img src="https://raw.githubusercontent.com/S4M73l09/S4M73l09/refs/heads/main/assets/Saludo.gif" width="28" height= "28" alt="wave"/>
+  </h1>
   
-  </h1>  
+
 
 <p align="center">
   <a href="https://www.malt.es/profile/samueljesuscarrera"><img alt="Contrátame en Malt" src="https://img.shields.io/badge/Contr%C3%A1tame%20en-Malt-red"></a>
-  <a href="https://s4m73l09.github.io/Cloud-infra-portfolio/?lang=es"><img alt="Portfolio" src="https://img.shields.io/badge/Ver%20Portfolio-Online-blue"></a>
+  <a href="https://s4m73l09.github.io/Cloud-infra-portfolio/?lang=es"><img alt="Portfolio" src="https://img.shields.io/badge/Ver%20Portfolio-Online-green"></a>
   <a href="https://github.com/S4M73l09?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explorar-lightgrey"></a>
+  <a href="https://www.linkedin.com/in/samuelillobaby/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Contactame-blue"><a/>
 </p>
+<p align="right" style="margin:0; padding:0;">
+  <a href="https://github.com/S4M73109/S4M73109/blob/main/README_EN.md">
+    <img src="https://img.shields.io/badge/EN-1f6feb?style=flat" height="18" alt="English" />
+  </a>
+</p>
+</div>
 
-**ES**: DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelines, Docker y observabilidad (Prometheus/Grafana).  
 
-### Proyectos destacados
-- **Proyecto multimedia de Server** - Terraform + Github actions + Docker + Ansible + Wireguard + Grafana + Prometheus (Terminado)
-    Código: https://github.com/S4M73l09/ProyectoServer
+DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelines, contenedores y observabilidad (Prometheus/Grafana).  
 
-- **Scripts de Windows Core** - Para montar de forma rapida y eficaz los scripts necesarios para montar un dominio en Windows Server Core (terminado).   
-    Código: https://github.com/S4M73l09/scripts-guia-windows
+<h2>🚀 Proyectos destacados</h2>
 
-- **Gcloud-Scripts** - Script Powershell + Bash para creacion de recursos necesarios de Terraform en Gcloud.  
-    Código: https://github.com/S4M73l09/Gcloud-Script
+<details open>
+  <summary><b>🖥️ Proyecto multimedia de Server (Terminado)</b></summary>
+  <br/>
+  <b>Proyecto multimedia donde se usa Jellyfin para crear un Netflix casero, utilizando CI/CD.</b>
+  <br/><br/>
 
-### Laboratorio de infraestructura
+  <a href="https://github.com/S4M73109/ProyectoServer">
+    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-#### ***Bootstrap/Live - Proyecto que utiliza un Bootstrap generado para separarlo usando buenas practicas.*** 
- - **GCS-Bootstrap---Live** - Bootstrap creado en Google Cloud para el despliegue de infra, haciendolo todo de manera profesional.
-      - Stack desplegado - terraform + Github Actions + OIDC + Google cloud + Workflows modificados para el uso y despliegue de Bootstrap.  
-        Código: https://github.com/S4M73l09/GCS-Bootstrap---Live
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Observability-Prometheus%2FGrafana-orange?style=for-the-badge" />
+</details>
 
- - **GCS-Infra-Live** - Utilizando el Bootstrap creado, podemos desplegar de manera directa la infraestructura real, separando en entornos, tanto en rama de pruebas, como una main donde se aplicara los cambios, y una rama de promocion.  
-      - Stack desplegado - Terraform + Github Actions + rama de pruebas + rama de promocion + Google Cloud + Ansible + Workflows modificados para despliegue real.    
-        Código: https://github.com/S4M73l09/GCS-Infra-Live  
+<details>
+  <summary><b>🧩 Scripts de Windows Core (Terminado)</b></summary>
+  <br/>
+  <b>Automatización rápida para montar dominio/roles en Windows Server Core.</b>
+  <br/><br/>
 
-- **Az-Bootstrap** - Bootstrap simulado en entorno de Azure, siguiendo las mejores practicas de seguridad.  
-     - Stack desplegado - Terraform + Github Actions + OIDC + Azure + Workflows modificados para el uso y despliegue futuros.  
-         Código: https://github.com/S4M73l09/AZ-Bootstrap  
+  <a href="https://github.com/S4M73109/scripts-guia-windows">
+    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-- **AZ-InfraLive** - Infraestructura futura separada en rama de pruebas (staging) y rama de prod (main). Sigue en Curso.  
-    - Stack desplegado - ...  
-         Código: ...  
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server_Core-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>☁️ GCloud-Scripts (Terminado)</b></summary>
+  <br/>
+  <b>PowerShell + Bash para preparar recursos necesarios para Terraform en Google Cloud.</b>
+  <br/><br/>
+
+  <a href="https://github.com/S4M73109/Gcloud-Script">
+    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</details>
+
+---
+
+
+
+## 🧪 Laboratorio de infraestructura
+**Proyectos mas complejos** que utilizan la gobernanza separada de Bootstrap para Infraestructuras separadas y reproducibles.
+
+- **GCS-Bootstrap---Live** (✅ Terminado) — Bootstrap en Google Cloud para preparar la base del despliegue y los workflows.  
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73109/GCS-Bootstrap---Live)
+  <details>
+    <summary><b>Ver funciones</b></summary>
+
+    - Separación clara entre **bootstrap** e **infra live**
+    - CI/CD con **GitHub Actions** usando **OIDC / Workload Identity Federation (WIF)**
+    - Preparación de recursos base (estado remoto/roles/políticas según diseño del proyecto)
+    - Workflows adaptados para uso y despliegue del bootstrap
+  </details>
+
+- **GCS-Infra-Live** (✅ Terminado) — Infra real desplegada a partir del Bootstrap, separando entornos y promoción por ramas.  
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73109/GCS-Infra-Live)
+  <details>
+    <summary><b>Ver funciones</b></summary>
+
+    - Despliegue por ramas: **pruebas → promoción** (flujo controlado)
+    - CI/CD con GitHub Actions (plan/apply por entorno)
+    - Integración con **Ansible** para post-config cuando aplica
+    - Enfoque en buenas prácticas: estructura por entornos + cambios reproducibles
+  </details>
+
+- **AZ-Bootstrap** (✅ Terminado) — Bootstrap en Azure siguiendo buenas prácticas y base reutilizable.  
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73109/AZ-Bootstrap)
+  <details>
+    <summary><b>Ver funciones</b></summary>
+
+    - Base “bootstrap” preparada para extender a **infra live**
+    - CI/CD con GitHub Actions + autenticación (según escenario: OIDC/SP)
+    - Estructura modular orientada a despliegues futuros
+  </details>
+
+- **AZ-InfraLive** (🚧 En curso) — Infra por staging/prod con pipelines y hardening progresivo.  
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](PON_AQUI_EL_LINK)
+  <details>
+    <summary><b>Ver funciones</b></summary>
+
+    - Separación de entornos: **staging/prod**
+    - 
+    - 
+  </details>
+
+> **Access hardening:** GCP **OS Login** · Azure **SP/Entra ID** · políticas de acceso gestionadas con **Terraform**.
+
+
+
   
 <h2>🧰 Stack</h2>
 
