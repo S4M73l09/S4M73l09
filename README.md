@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/S4M73l09/S4M73l09/blob/main/assets/Mercury%20crop.gif?raw=true" width="920" alt="Mercury" />
+</p>
+
+
 # S4M73I09 ES --> [EN](README.en.md)
 
 <h1 align="center">Hola, Soy samuel, encantado!!
