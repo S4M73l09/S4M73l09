@@ -29,7 +29,7 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
 <h2>🚀 Proyectos destacados</h2>
 
 <details open>
-  <summary><b>🖥️ Proyecto multimedia de Server (Terminado)</b></summary>
+  <summary><b>🖥️ Proyecto multimedia Server (Terminado)</b></summary>
   <br/>
   <b>Proyecto multimedia donde se usa Jellyfin para crear un Netflix casero, utilizando CI/CD.</b>
   <br/><br/>
