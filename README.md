@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/samuelillobaby/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Contactame-blue"><a/>
 </p>
 <p align="right" style="margin:0; padding:0;">
-  <a href="https://github.com/S4M73109/S4M73109/blob/main/README_EN.md">
+  <a href="https://github.com/S4M73l09/S4M73l09/blob/main/README.en.md">
     <img src="https://img.shields.io/badge/EN-1f6feb?style=flat" height="18" alt="English" />
   </a>
 </p>
@@ -34,7 +34,7 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
   <b>Proyecto multimedia donde se usa Jellyfin para crear un Netflix casero, utilizando CI/CD.</b>
   <br/><br/>
 
-  <a href="https://github.com/S4M73109/ProyectoServer">
+  <a href="https://github.com/S4M73l09/ProyectoServer">
     <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -51,7 +51,7 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
   <b>Automatización rápida para montar dominio/roles en Windows Server Core.</b>
   <br/><br/>
 
-  <a href="https://github.com/S4M73109/scripts-guia-windows">
+  <a href="https://github.com/S4M73l09/scripts-guia-windows">
     <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -65,7 +65,7 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
   <b>PowerShell + Bash para preparar recursos necesarios para Terraform en Google Cloud.</b>
   <br/><br/>
 
-  <a href="https://github.com/S4M73109/Gcloud-Script">
+  <a href="https://github.com/S4M73l09/Gcloud-Script">
     <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -83,7 +83,7 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
 **Proyectos mas complejos** que utilizan la gobernanza separada de Bootstrap para Infraestructuras separadas y reproducibles.
 
 - **GCS-Bootstrap---Live** (✅ Terminado) — Bootstrap en Google Cloud para preparar la base del despliegue y los workflows.  
-  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73109/GCS-Bootstrap---Live)
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73l09/GCS-Bootstrap---Live)
   <details>
     <summary><b>Ver funciones</b></summary>
 
@@ -94,7 +94,7 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
   </details>
 
 - **GCS-Infra-Live** (✅ Terminado) — Infra real desplegada a partir del Bootstrap, separando entornos y promoción por ramas.  
-  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73109/GCS-Infra-Live)
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73l09/GCS-Infra-Live)
   <details>
     <summary><b>Ver funciones</b></summary>
 
@@ -105,7 +105,7 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
   </details>
 
 - **AZ-Bootstrap** (✅ Terminado) — Bootstrap en Azure siguiendo buenas prácticas y base reutilizable.  
-  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73109/AZ-Bootstrap)
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73l09/AZ-Bootstrap)
   <details>
     <summary><b>Ver funciones</b></summary>
 
@@ -115,7 +115,7 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
   </details>
 
 - **AZ-InfraLive** (🚧 En curso) — Infra por staging/prod con pipelines y hardening progresivo.  
-  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](PON_AQUI_EL_LINK)
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73l09/AZ-InfraLive)
   <details>
     <summary><b>Ver funciones</b></summary>
 
