@@ -14,7 +14,7 @@
    <a href="https://www.linkedin.com/in/samuelillobaby/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Contact me-blue"><a/>
 </p>
 <p align="right" style="margin:0; padding:0;">
-  <a href="https://github.com/S4M73109/S4M73109/blob/main/README.md">
+  <a href="https://github.com/S4M73l09/S4M73l09/blob/main/README.md">
     <img src="https://img.shields.io/badge/ES-1f6feb?style=flat" height="18" alt="Español" />
   </a>
 </p>
@@ -30,7 +30,7 @@
   <b>Multimedia project where Jellyfin is used to create a home Netflix, using CI/CD.</b>
   <br/><br/>
 
-  <a href="https://github.com/S4M73109/ProyectoServer">
+  <a href="https://github.com/S4M73l09/ProyectoServer">
     <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -47,7 +47,7 @@
   <b>Quick automation for setting up domains/roles on Windows Server Core.</b>
   <br/><br/>
 
-  <a href="https://github.com/S4M73109/scripts-guia-windows">
+  <a href="https://github.com/S4M73l09/scripts-guia-windows">
     <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -61,7 +61,7 @@
   <b>PowerShell + Bash to prepare necessary resources for Terraform on Google Cloud.</b>
   <br/><br/>
 
-  <a href="https://github.com/S4M73109/Gcloud-Script">
+  <a href="https://github.com/S4M73l09/Gcloud-Script">
     <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -78,7 +78,7 @@
 **More complex projects** that use separate Bootstrap governance for separated, reproducible infrastructures.
 
 - **GCS-Bootstrap---Live** (✅ Completed) — Google Cloud bootstrap to prepare the deployment foundation and workflows.  
-  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73109/GCS-Bootstrap---Live)
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73l09/GCS-Bootstrap---Live)
   <details>
     <summary><b>Show features</b></summary>
 
@@ -89,7 +89,7 @@
   </details>
 
 - **GCS-Infra-Live** (✅ Completed) — Real infrastructure deployed from the Bootstrap layer, with environments and branch promotion.  
-  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73109/GCS-Infra-Live)
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73l09/GCS-Infra-Live)
   <details>
     <summary><b>Show features</b></summary>
 
@@ -100,7 +100,7 @@
   </details>
 
 - **AZ-Bootstrap** (✅ Completed) — Azure bootstrap (simulated) following best practices and a reusable foundation.  
-  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73109/AZ-Bootstrap)
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/S4M73l09/AZ-Bootstrap)
   <details>
     <summary><b>Show features</b></summary>
 
