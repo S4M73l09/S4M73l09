@@ -98,6 +98,23 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
   <img src="https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white" /> 
 </details>
 
+<details>
+  <summary><b>☁ DevOps-mcp-guide </b></summary>
+  <br/>
+  <b> Repositorio educativo sobre el uso de MCP en herramientas DevOps, con ejemplos teóricos y practicos.</b>
+  <br/><br/>
+
+  <a href="https://github.com/S4M73l09/DevOps-mcp-guide">
+    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/mcp-server?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA-Agentic?style=for-the-badge&label=agentic&color=blue" />
+</details>
+
 ---
 
 ## 🧪 Laboratorio de infraestructura
