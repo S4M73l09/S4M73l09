@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://www.malt.es/profile/samueljesuscarcarenaz"><img alt="Hire me on Malt" src="https://img.shields.io/badge/Hire%20me%20on-Malt-red"></a>
+  <a href="https://app.shakersworks.com/talent/profile"><img alt="Im in shakers!" src="https://img.shields.io/badge/Shakers!-e?label=I'm%20in%20&color=yellow"></a>
   <a href="https://s4m73l09.github.io/Cloud-infra-portfolio/en/"><img alt="Portfolio" src="https://img.shields.io/badge/View%20Portfolio-Online-blue"></a>
   <a href="https://github.com/S4M73109?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explore-lightgrey"></a>
    <a href="https://www.linkedin.com/in/samuelillobaby/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Contact me-blue"><a/>
@@ -92,6 +93,23 @@
   <img src="https://img.shields.io/badge/Conftest-Policy_as_Code-2D3748?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white" /> 
+</details>
+
+<details>
+  <summary><b>☁ DevOps-mcp-guide (Finished)</b></summary>
+  <br/>
+  <b> Educational repository on the use of MCP in DevOps tools, with theoretical and practical examples.</b>
+  <br/><br/>
+
+  <a href="https://github.com/S4M73l09/DevOps-mcp-guide">
+    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/mcp-server?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA-Agentic?style=for-the-badge&label=agentic&color=blue" />
 </details>
 
 
