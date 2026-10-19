@@ -99,7 +99,7 @@ DevOps en Azure. IaC (Terraform+Ansible), CI/CD (GitHub Actions), uso de pipelin
 </details>
 
 <details>
-  <summary><b>☁ DevOps-mcp-guide </b></summary>
+  <summary><b>☁ DevOps-mcp-guide (Terminado)</b></summary>
   <br/>
   <b> Repositorio educativo sobre el uso de MCP en herramientas DevOps, con ejemplos teóricos y practicos.</b>
   <br/><br/>
