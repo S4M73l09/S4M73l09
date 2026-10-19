@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://www.malt.es/profile/samueljesuscarrera"><img alt="Contrátame en Malt" src="https://img.shields.io/badge/Contr%C3%A1tame%20en-Malt-red"></a>
+  <a href="https://app.shakersworks.com/talent/profile"><img alt="Contactame en shakers" src="https://img.shields.io/badge/Shakers!-e?label=Estoy%20en&color=yellow"></a>  
   <a href="https://s4m73l09.github.io/Cloud-infra-portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Ver%20Portfolio-Online-green"></a>
   <a href="https://github.com/S4M73l09?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explorar-lightgrey"></a>
   <a href="https://www.linkedin.com/in/samuelillobaby/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Contactame-blue"><a/>
